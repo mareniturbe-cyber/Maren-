@@ -1,0 +1,17 @@
+body {
+    background-color: azure;
+padding: 16px;
+}
+
+h1{
+text-align: center;
+font-family: "times new roman";
+font-size 42px;
+color: black;
+}
+
+.imagen_perfil¨{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; 
+}
